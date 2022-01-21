@@ -1,0 +1,9 @@
+tensorflow
+numpy
+imblearn
+matplotlib
+sklearn
+pandas
+jupyterlab
+tensorflow_addons
+pydot
